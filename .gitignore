@@ -1,0 +1,10 @@
+# ignore env file
+.env
+
+# python
+__pycache__/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
